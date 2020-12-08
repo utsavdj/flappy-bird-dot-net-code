@@ -1,0 +1,33 @@
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Game.resources
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\bin\Debug\WindowsBase.dll
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CopyComplete
+C:\Users\Utsav\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\bin\Debug\WindowsBase.dll
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Game.resources
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CopyComplete
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\bin\Debug\WindowsBase.dll
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Game.resources
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CopyComplete
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\University of Waikato\S Semester\COMPX 102 - Object Oriented Programming\FlappyBird\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
